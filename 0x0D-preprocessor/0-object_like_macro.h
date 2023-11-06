@@ -5,5 +5,5 @@
  *
  * Desc: header file that defines a macro named SIZE
  */
-#define SIZE 1
+#define SIZE 1024
 #endif
